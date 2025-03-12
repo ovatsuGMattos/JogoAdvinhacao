@@ -4,7 +4,7 @@
 
 ``` Desenvolvido durante o curso da Academia do Programador 2025 ```
 
-![]()
+![](https://i.imgur.com/WZSqU1z.gif)
 
 ## Funcionalidade
 
