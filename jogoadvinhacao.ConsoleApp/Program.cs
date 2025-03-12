@@ -7,17 +7,17 @@
             while (true)
             {
                 Console.Clear();
-                Console.WriteLine("----------------------------------------");
+                Console.WriteLine("---------------------------------");
                 Console.WriteLine("Jogo de Adivinhação");
-                Console.WriteLine("----------------------------------------");
+                Console.WriteLine("---------------------------------");
 
                 // Escolha de dificuldade
                 Console.WriteLine("Escolha um nível de dificuldade:");
-                Console.WriteLine("----------------------------------------");
+                Console.WriteLine("---------------------------------");
                 Console.WriteLine("1 - Fácil (10 tentativas)");
                 Console.WriteLine("2 - Médio (5 tentativas)");
                 Console.WriteLine("3 - Difícil (3 tentativas)");
-                Console.WriteLine("----------------------------------------");
+                Console.WriteLine("---------------------------------");
 
                 int totalDeTentativas = 0;
 
